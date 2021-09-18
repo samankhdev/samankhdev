@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![Twitter](https://img.shields.io/badge/samankhdev?style=for-the-badge&logo=twitter)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samankhdev)
 <a href="https://codepen.io/samkhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="samkhdev" height="30" width="40" /></a>
 <a href="https://dev.to/samankhdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="samankhdev" height="30" width="40" /></a>
 </p>
