@@ -6,7 +6,7 @@
 
 - mafiaGame [بازی مافیا](https://github.com/samankhdev/mafiaGame)
 
-- 🌱 I’m currently learning **Livewire,VueJs,PWA**
+- 🌱 I’m currently learning **Rust,laravel(fortify,jetstream)**
 
 - company-website [قالب شرکتی](https://github.com/samankhdev/company-website)
 
