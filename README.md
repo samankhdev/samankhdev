@@ -2,13 +2,13 @@
 
 <h3 align="center">A passionate Web-Developer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samankhdev" alt="samankhdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mafhhend" alt="mafhhend" /></a> </p>
 
-- mafiaGame [بازی مافیا](https://github.com/samankhdev/mafiaGame)
+- mafiaGame [بازی مافیا](https://github.com/mafhhend/mafiaGame)
 
 - 🌱 I’m currently learning **Rust,laravel(fortify,jetstream)**
 
-- company-website [قالب شرکتی](https://github.com/samankhdev/company-website)
+- company-website [قالب شرکتی](https://github.com/mafhhend/company-website)
 
 - Beattrap [بیت‌ترپ](beattrap.ir)
 
@@ -29,6 +29,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samankhdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafhhend&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samankhdev&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafhhend&show_icons=true&theme=dracula)
