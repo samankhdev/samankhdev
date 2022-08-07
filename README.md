@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://dev.to/samankhdev" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="samankhdev" /></a> </p>
 <p align="left"> <a href="https://github.com/samankhdev" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samankhdev" /></a> </p>
-<p align="left"> <a href="https://twitter.com/mafhhend" target="blank"><img src="https://img.shields.io/twitter/follow/samkhdev?logo=twitter&style=for-the-badge" alt="samkhdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mafhhend" target="blank"><img src="https://img.shields.io/twitter/follow/mafhhend?logo=twitter&style=for-the-badge" alt="samkhdev" /></a> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
