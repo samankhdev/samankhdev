@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/thethinkerdev" target="blank"><img src="https://img.shields.io/twitter/follow/thethinkerdev?logo=twitter&style=for-the-badge" alt="thethinkerdev" /></a> </p>
 
-- E-commerce Website - فروشگاه اینترنتی [بیت ترپ](beattrap.ir)
+- E-commerce Website - فروشگاه اینترنتی [بیت ترپ](https://beattrap.ir)
 
 - 🌱 I’m currently learning **Learning C++ to learn programming in depth**
 
 - اپلیکیشن اندروید [منتظران مهدی](https://cafebazaar.ir/app/com.samannumber8.imamzamanrelease)
 
-- Portfolio website [mafhh.ir](mafhh.ir)
+- Portfolio website [mafhh.ir](https://mafhh.ir)
 
 - 💬 Ask me about **Laravel, JS/TS, Linux,**
 
